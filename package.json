@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pabloalmeidagalvez1/api-cel/issues"
   },
-  "homepage": "https://github.com/pabloalmeidagalvez1/api-cel#readme"
+  "homepage": "https://github.com/pabloalmeidagalvez1/api-cel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
